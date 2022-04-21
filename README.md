@@ -10,7 +10,9 @@ Then use `pip` (or `pip3`, if there is a conflict with Python2) to install depen
 pip install -r requirements.txt
 ```
 
-Also you need to create ".env" file in the directiory with the script and set an environement variable TOKEN, the value for that variable you can find if you register on [api.bitly.com](https://app.bitly.com/settings/api/) and generate your token there.
+Also you need to create ".env" file in the directiory with the script and set an environement variable BITLY_TOKEN, the value for that variable you can find if you register on [api.bitly.com](https://app.bitly.com/settings/api/), generate your token there and assign it to BITLY_TOKEN as a string with `export` as this: 
+
+```export BITLY_TOKEN = 'sdfsdfsfs14324dsad'```
 
 ### Script execution example
 
