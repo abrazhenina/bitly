@@ -1,4 +1,4 @@
-# Bitly url shorterer
+# Bitly url shortener
 
 This script generates a short link (bitlink) to your long link and also counts a number of clicks if given a bitlink.
 
