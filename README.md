@@ -17,7 +17,3 @@ Also you need to create ".env" file in the directiory with the script and set an
 ### Script execution example
 
 The result of script execution is like this ![script execution example](https://bit.ly/3EvY8I2)
-
-### Project Goals
-
-The code is written for educational purposes on online-course for web-developers [dvmn.org](https://dvmn.org/).
